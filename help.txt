@@ -1,0 +1,27 @@
+<b><u>Welcome to Help!</u></b>
+Below are the commands we have implemented below.
+<span style='color:#40E0D0'>[ls]</span> <span style='color: black;'>- Lists Current Directory.</span>
+<span style='color:#40E0D0'>[cp]</span> <span style='color: black;'> - Copy file from src to target.</span>
+<span style='color:#40E0D0'>[mv]</span> <span style='color: black;'>- Move file from src to target.</span>
+<span style='color:#40E0D0'>[mkdir]</span> <span style='color: black;'>- Creates a new directory.</span>
+<span style='color:#40E0D0'>[rmdir]</span> <span style='color: black;'>- Removes a directory.</span>
+<span style='color:#40E0D0'>[cd]</span> <span style='color: black;'>- changes a directory</span>
+<span style='color:#40E0D0'>[history]</span> <span style='color: black;'>- shows recent history</span>
+<span style='color:#40E0D0'>[ps]</span> <span style='color: black;'>- Shows current processes</span>
+<span style='color:#40E0D0'>[ps]</span> <span style='color: black;'>- Report a snapshot of the current processes.</span>
+<span style='color:#40E0D0'>[which]</span> <span style='color: black;'>- Shows the location of a command.</span>
+<span style='color:#40E0D0'>[whoAmI]</span> <span style='color: black;'>- Shows the current username.</span>
+<span style='color:#40E0D0'>[move]</span> <span style='color: black;'>- Move a file from source to target destination.</span>
+<span style='color:#40E0D0'>[copy]</span> <span style='color: black;'>- Copy file from source to target destination.</span>
+<span style='color:#40E0D0'>[login]</span> <span style='color: black;'>- logs the user into account.</span>
+<span style='color:#40E0D0'>[logoff]</span> <span style='color: black;'>- logs the user off the account.</span>
+<span style='color:#40E0D0'>[showDir]</span> <span style='color: black;'>- Shows the current directory.</span>
+<span style='color:#40E0D0'>[help]</span> <span style='color: black;'>- displays the command help.</span>
+<span style='color:#40E0D0'>[create 'username' 'password' 'usertype']</span> <span style='color: black;'>- creates an account only if you are logged in.</span>
+<span style='color:#40E0D0'>[encrypt 'username' 'password']</span> <span style='color: black;'>- encrypts the users file space</span>
+<span style='color:#40E0D0'>[decrypt 'username' 'password']</span> <span style='color: black;'>- decrypts the user space</span>
+<span style='color:#40E0D0'>[super addUser]</span> <span style='color: black;'>- adds a user</span>
+<span style='color:#40E0D0'>[super delUser]</span> <span style='color: black;'>- deletes a user</span>
+<span style='color:#40E0D0'>[super chPass]</span> <span style='color: black;'>- changes password of user</span>
+<span style='color:#40E0D0'>[super chUserType]</span> <span style='color: black;'>- changes a users type</span>
+
